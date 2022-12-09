@@ -9,3 +9,5 @@ In this study, I used the following statistical methods to determine which facto
 + T-test
 + F-test
 + Goodness-of-fit test
+
+This study was conducted as the final project for the EXST 7005 course by Dr. Thanos Gentimis from Louisiana State University. 
